@@ -130,7 +130,7 @@
           lineNumber: 58,
           columnNumber: 12
         }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("h1", {
-          children: "Wanna be mah partner for today?"
+          children: "Wanna be mah partner for tommorow?"
         }, void 0, false, {
           fileName: _jsxFileName,
           lineNumber: 59,
